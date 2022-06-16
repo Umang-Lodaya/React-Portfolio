@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.d7354ca9.css",
+    "main.js": "/React-Portfolio/static/js/main.b4c0af52.js",
+    "static/media/Umang.jpg": "/React-Portfolio/static/media/Umang.599c802c36d32922f394.jpg",
+    "static/media/Umang2.JPG": "/React-Portfolio/static/media/Umang2.995de73ce8621cc4a5e0.JPG",
+    "index.html": "/React-Portfolio/index.html",
+    "main.d7354ca9.css.map": "/React-Portfolio/static/css/main.d7354ca9.css.map",
+    "main.b4c0af52.js.map": "/React-Portfolio/static/js/main.b4c0af52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7354ca9.css",
+    "static/js/main.b4c0af52.js"
+  ]
+}
